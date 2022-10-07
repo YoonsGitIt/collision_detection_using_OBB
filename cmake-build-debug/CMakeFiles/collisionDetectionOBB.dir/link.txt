@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/collisionDetectionOBB.dir/src/CollisionTest.cpp.o CMakeFiles/collisionDetectionOBB.dir/src/SetObb.cpp.o CMakeFiles/collisionDetectionOBB.dir/src/IntersectionCalculator.cpp.o -o collisionDetectionOBB 

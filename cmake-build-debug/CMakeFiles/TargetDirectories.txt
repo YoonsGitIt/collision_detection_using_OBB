@@ -1,0 +1,3 @@
+/home/jy/CLionProjects/collisionDetectionOBB/cmake-build-debug/CMakeFiles/collisionDetectionOBB.dir
+/home/jy/CLionProjects/collisionDetectionOBB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jy/CLionProjects/collisionDetectionOBB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
